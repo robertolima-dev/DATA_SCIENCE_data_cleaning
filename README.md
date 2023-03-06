@@ -57,6 +57,6 @@ Os principais benefícios do Jupyter Notebook para tratamento de dados são:
     </div>
     <br/>
     <p> 
-      <a href="https://github.com/robertolima-dev/DATA_SCIENCE_data_cleaning/blob/main/LICENSE.md">LICENÇA</a>
+      <a href="https://github.com/robertolima-dev/licenca/blob/main/LICENSE.md">LICENÇA</a>
     </p>
 </div>
